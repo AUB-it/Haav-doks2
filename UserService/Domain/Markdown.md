@@ -7,11 +7,11 @@ Dette dokument beskriver forretningsdomænet og de strategiske valg for HaaV-pla
 ## 🏛️ Opgave A: Forretningskompetencer (Business Capabilities)
 Vi har identificeret tre kernekompetencer, der understøtter strategien direkte og er svære at kopiere[cite: 25, 29, 32].
 
-| Kompetence | Beskrivelse                                                                          | Forretningsfunktioner                                                                    |
-| :--- |:-------------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------------|
-| **Sortiment- & Kategoristyring** | Evnen til at udvælge de rigtige produkter til de rigtige priser baseret på data      | Prisoptimering [cite: 26][cite_start]<br>• Sæsonplanlægning                              |
-| **Medlemsstyring & Onboarding** | Effektiv håndtering af selvstændige forretninger (medlemmer) på platformen           | [cite_start]• Validering af standarder <br>• Kontingentstyring                           |
-| **Logistik-koordinering** | Sikring af effektiv varestrøm fra medlemmer til slutkunder.                          | • Ruteoptimering <br>• Leveringssporing                                                  |
+| Kompetence | Beskrivelse                                                                          | Forretningsfunktioner                                                          |
+| :--- |:-------------------------------------------------------------------------------------|:-------------------------------------------------------------------------------|
+| **Sortiment- & Kategoristyring** | Evnen til at udvælge de rigtige produkter til de rigtige priser baseret på data      | Prisoptimering <br>• Sæsonplanlægning                                          |
+| **Medlemsstyring & Onboarding** | Effektiv håndtering af selvstændige forretninger (medlemmer) på platformen           | • Validering af standarder <br>• Kontingentstyring                             |
+| **Logistik-koordinering** | Sikring af effektiv varestrøm fra medlemmer til slutkunder.                          | • Ruteoptimering <br>• Leveringssporing                                        |
 
 ---
 
