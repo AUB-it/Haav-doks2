@@ -1,3 +1,5 @@
+using Scalar.AspNetCore;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
@@ -11,7 +13,11 @@ var app = builder.Build();
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())
 {
+    // 1. Lav OpenAPI endpoint (default: /openapi/v1.json)
     app.MapOpenApi();
+
+    // 2. Start Scalar webUI (default: /scalar/v1)
+    app.MapScalarApiReference();
 }
 
 app.UseHttpsRedirection();
