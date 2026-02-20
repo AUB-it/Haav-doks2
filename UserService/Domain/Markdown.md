@@ -5,7 +5,7 @@ Dette dokument beskriver forretningsdomænet og de strategiske valg for HaaV-pla
 ---
 
 ## 🏛️ Opgave A: Forretningskompetencer (Business Capabilities)
-Vi har identificeret tre kernekompetencer, der understøtter strategien direkte og er svære at kopiere[cite: 25, 29, 32].
+Vi har identificeret tre kernekompetencer, der understøtter strategien direkte og er svære at kopiere.
 
 | Kompetence | Beskrivelse                                                                          | Forretningsfunktioner                                                          |
 | :--- |:-------------------------------------------------------------------------------------|:-------------------------------------------------------------------------------|
@@ -16,7 +16,7 @@ Vi har identificeret tre kernekompetencer, der understøtter strategien direkte 
 ---
 
 ## 🧩 Opgave B: DDD Underdomæner
-Vi har nedbrudt kompetencen **Sortiment- og kategoristyring** for at identificere kerneværdien[cite: 38, 41].
+Vi har nedbrudt kompetencen **Sortiment- og kategoristyring** for at identificere kerneværdien.
 
 ### 1. Kerne-underdomæner (Core Domains) ⭐
 Disse skaber reel konkurrencefordel
